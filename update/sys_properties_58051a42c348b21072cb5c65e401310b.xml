@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Enable MariaDB INSTANT ALTER algorithms on the Now Platform</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.db.instant_alter.enabled</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-19 09:00:00</sys_created_on>
+        <sys_id>58051a42c348b21072cb5c65e401310b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.db.instant_alter.enabled</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_58051a42c348b21072cb5c65e401310b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-19 09:00:00</sys_updated_on>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=58051a42c348b21072cb5c65e401310b"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey name="glide.db.instant_alter.enabled" tablename="sys_properties">58051a42c348b21072cb5c65e401310b</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-19 09:00:01</sys_created_on>
+        <sys_id>20051a42c348b21072cb5c65e401310d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-19 09:00:01</sys_updated_on>
+        <tablename>sys_properties</tablename>
+        <value>Enable MariaDB INSTANT ALTER algorithms on the Now Platform</value>
+    </sys_translated_text>
+</record_update>
