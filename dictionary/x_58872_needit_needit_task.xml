@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element extends="task" label="NeedIt Task" max_length="40" name="x_58872_needit_needit_task" type="collection"/>
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="ce2bbc79c38c321072cb5c65e4013100" extends="task" max_length="40" name="x_58872_needit_needit_task" type="collection"/>
 </database>
